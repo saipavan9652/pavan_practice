@@ -2,3 +2,4 @@ this is my first file
 ok adding feature 1
 adding contious feature 2
 feature 3
+feature 4
